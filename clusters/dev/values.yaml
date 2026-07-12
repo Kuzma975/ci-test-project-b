@@ -1,0 +1,3 @@
+project-b:
+  image: "hub.docker.com/kuzmarezchenko/frontend"
+  tag: "latest"
